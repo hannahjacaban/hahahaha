@@ -19,37 +19,37 @@
   },
   {
     "id": 3,
-    "name": "Super 60m2 in trendy neighborhood!",
+    "name": "Pindangan Ruins, San Fernando, La Union",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.885312,
     "lng": 2.341225
   },
   {
-    "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "id": 4,
+    "name": "Grape Picking, Bauang, La Union",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.881840,
     "lng": 2.343371
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "Surfing Area, San Juan, La Union",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.888839,
     "lng": 2.339208
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Bangus Festival, Aringay, La Union",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "php",
     "lat": 48.827855,
     "lng": 2.350774
   }
