@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Tangadan Falls, San Gabriel, La Union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/tangadan.jpeg",
     "price": 5000,
     "priceCurrency": "PHP",
     "lat": 16.6694,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Occalong Falls, Luna, La Union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/occalong.jpg",
     "price": 200,
     "priceCurrency": "PHP",
     "lat": 16.8308,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Pindangan Ruins, San Fernando, La Union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/pindangan.jpg",
     "price": 150,
     "priceCurrency": "PHP",
     "lat": 16.6074,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Grape Picking, Bauang, La Union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/grapes.jpg",
     "price": 115,
     "priceCurrency": "PHP",
     "lat": 16.5143,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Surfing Area, San Juan, La Union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/urbiz.jpg",
     "price": 135,
     "priceCurrency": "PHP",
     "lat": 16.6720,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Bangus Festival, Aringay, La Union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/dulao.jpg",
     "price": 90,
     "priceCurrency": "PHP",
     "lat": 16.3888,
