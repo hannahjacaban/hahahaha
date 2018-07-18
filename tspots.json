@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
     "price": 115,
     "priceCurrency": "PHP",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 16.5143,
+    "lng": 120.3551
   },
   {
     "id": 210,
@@ -41,16 +41,16 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
     "price": 135,
     "priceCurrency": "PHP",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.6720,
+    "lng": 120.3628
   },
   {
     "id": 211,
     "name": "Bangus Festival, Aringay, La Union",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
-    "priceCurrency": "php",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "priceCurrency": "PHP",
+    "lat": 16.3888,
+    "lng": 120.3885
   }
 ]
