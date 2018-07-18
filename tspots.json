@@ -1,10 +1,10 @@
 [
   {
-    "id": 55,
-    "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
+    "id": 1,
+    "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
     "price": 5000,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.6694,
     "lng": 120.5049
   },
