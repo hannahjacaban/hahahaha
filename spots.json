@@ -52,5 +52,14 @@
     "priceCurrency": "PHP",
     "lat": 16.3888,
     "lng": 120.3885
+  },
+  {
+    "id": 13,
+    "name": "Santo Rosario East, Aringay, La Union",
+    "imageUrl": "http://northboundasia.com/wp-content/uploads/2015/10/jaime.jpg",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.3787,
+    "lng": 120.3486
   }
 ]
