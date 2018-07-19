@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Tangadan Falls, San Gabriel, La Union",
+    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
+    "price": 5000,
+    "priceCurrency": "PHP",
+    "lat": 16.6694,
+    "lng": 120.5049
+  },
+  {
+    "id": 2,
+    "name": "Occalong Falls, Luna, La Union",
+    "imageUrl": "http://3.bp.blogspot.com/-BeOCkpKfUHM/VjW4qzfBCdI/AAAAAAAA4VQ/_53Jcne5joE/s1600/Tuddingan.jpg",
+    "price": 200,
+    "priceCurrency": "PHP",
+    "lat": 16.8308,
+    "lng": 120.3551
+  },
+  {
+    "id": 3,
+    "name": "Pindangan Ruins, San Fernando, La Union",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/ad/pindangan-ruins.jpg",
+    "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.6074,
+    "lng": 120.3666
+  },
+  {
+    "id": 4,
+    "name": "Grape Picking, Bauang, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/grapes.jpg?raw=true",
+    "price": 115,
+    "priceCurrency": "PHP",
+    "lat": 16.5143,
+    "lng": 120.3551
+  },
+  {
+    "id": 5,
+    "name": "Surfing Area, San Juan, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/urbiz.jpg?raw=true",
+    "price": 135,
+    "priceCurrency": "PHP",
+    "lat": 16.6720,
+    "lng": 120.3628
+  },
+  {
+    "id": 6,
+    "name": "Bangus Festival, Aringay, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/dulao.jpg?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.3888,
+    "lng": 120.3885
+  }
+]
