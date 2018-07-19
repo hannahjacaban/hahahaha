@@ -63,6 +63,15 @@
     "lng": 120.3885
   },
   {
+    "id": 8,
+    "name": "Dried Fish Stalls, Sto. Tomas, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/sto%20tomas.JPG?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.2753,
+    "lng": 120.4012
+  },
+  {
     "id": 13,
     "name": "Santo Rosario East, Aringay, La Union",
     "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/hana.png?raw=true",
