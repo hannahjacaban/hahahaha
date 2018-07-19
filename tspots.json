@@ -52,7 +52,7 @@
     "priceCurrency": "PHP",
     "lat": 16.3888,
     "lng": 120.3885
-  }
+  },
   {
     "id": 7,
     "name": "Eco Park, Agoo, La Union",
@@ -61,7 +61,7 @@
     "priceCurrency": "PHP",
     "lat": 16.3888,
     "lng": 120.3885
-  }
+  },
   {
     "id": 8,
     "name": "Dried Fish Stalls, Sto. Tomas, La Union",
@@ -70,7 +70,7 @@
     "priceCurrency": "PHP",
     "lat": 16.2753,
     "lng": 120.4012
-  }
+  },
   {
     "id": 9,
     "name": "Honey Harvesting, Bacnotan, La Union",
@@ -79,7 +79,7 @@
     "priceCurrency": "PHP",
     "lat": 16.7340,
     "lng": 120.3666
-  }
+  },
   {
     "id": 10,
     "name": "Abel Making, Bangar, La Union",
@@ -88,7 +88,7 @@
     "priceCurrency": "PHP",
     "lat":16.8829,
     "lng":120.4242
-  }
+  },
   {
     "id": 11,
     "name": "Macho Temple, San Fernando City, La Union",
@@ -97,7 +97,7 @@
     "priceCurrency": "PHP",
     "lat": 16.6074,
     "lng": 120.3666,
-  }
+  },
   {
     "id": 12,
     "name": "Pugo Adventure, Pugo, La Union",
@@ -106,7 +106,7 @@
     "priceCurrency": "PHP",
     "lat": 16.3213,
     "lng": 120.4761
-  }
+  },
   {
     "id": 13,
     "name": "Balay Mi",
