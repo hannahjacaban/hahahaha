@@ -72,6 +72,15 @@
     "lng": 120.4012
   },
   {
+    "id": 9,
+    "name": "Honey Harvesting, Bacnotan, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/bacnotan.jpg?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.7340,
+    "lng": 120.3666
+  },
+  {
     "id": 13,
     "name": "Santo Rosario East, Aringay, La Union",
     "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/hana.png?raw=true",
