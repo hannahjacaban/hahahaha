@@ -54,6 +54,15 @@
     "lng": 120.3885
   },
   {
+    "id": 7,
+    "name": "Eco Park, Agoo, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/agoo.jpg?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.3888,
+    "lng": 120.3885
+  },
+  {
     "id": 13,
     "name": "Santo Rosario East, Aringay, La Union",
     "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/hana.png?raw=true",
