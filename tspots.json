@@ -52,5 +52,68 @@
     "priceCurrency": "PHP",
     "lat": 16.3888,
     "lng": 120.3885
+  },
+  {
+    "id": 7,
+    "name": "Eco Park, Agoo, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/agoo.jpg?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.3888,
+    "lng": 120.3885
+  },
+  {
+    "id": 8,
+    "name": "Dried Fish Stalls, Sto. Tomas, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/sto%20tomas.JPG?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.2753,
+    "lng": 120.4012
+  },
+  {
+    "id": 9,
+    "name": "Honey Harvesting, Bacnotan, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/bacnotan.jpg?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.7340,
+    "lng": 120.3666
+  },
+  {
+    "id": 10,
+    "name": "Abel Making, Bangar, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/bangar.jpg?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat":16.8829,
+    "lng":120.4242
+  },
+  {
+    "id": 11,
+    "name": "Macho Temple, San Fernando City, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/macho.jpg?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.6074,
+    "lng": 120.3666,
+  },
+  {
+    "id": 12,
+    "name": "Pugo Adventure, Pugo, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/pugo.jpg?raw=true",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.3213,
+    "lng": 120.4761
+  },
+  {
+    "id": 13,
+    "name": "Balay Mi",
+    "imageUrl": "http://northboundasia.com/wp-content/uploads/2015/10/jaime.jpg",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.3787,
+    "lng": 120.3486
   }
 ]
