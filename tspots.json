@@ -50,8 +50,8 @@
     "imageUrl": "http://i8.photobucket.com/albums/a5/flipzi/wallace_air_station_zpsfiqdkydo.jpg",
     "price": 90,
     "priceCurrency": "PHP",
-    "lat": 16.6074,
-    "lng": 120.3666
+    "lat": 16.6197,
+    "lng": 120.2815
   },
   {
     "id": 7,
@@ -59,8 +59,8 @@
     "imageUrl": "http://images.asiatravel.com/Hotel/6033/outdoor-pool.jpg",
     "price": 1000,
     "priceCurrency": "PHP",
-    "lat": 16.6074,
-    "lng": 120.3666
+    "lat": 16.6167,
+    "lng": 120.2833
   },
   {
     "id": 8,
