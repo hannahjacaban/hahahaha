@@ -52,5 +52,23 @@
     "priceCurrency": "PHP",
     "lat": 16.3888,
     "lng": 120.3885
+  },
+  {
+    "id": 7,
+    "name": "Thunderbird Resorts and Casinos",
+    "imageUrl": "http://images.asiatravel.com/Hotel/6033/outdoor-pool.jpg",
+    "price": 1000,
+    "priceCurrency": "PHP",
+    "lat": 16.6074,
+    "lng": 120.3666
+  },
+  {
+    "id": 8,
+    "name": "Halo-Halo de Iloko",
+    "imageUrl": "http://3.bp.blogspot.com/-rmOZO8Ib1J0/VLy3bE3gzkI/AAAAAAAABSk/WxFpc1mRTrM/s1600/IMG_7569.jpg",
+    "price": 250,
+    "priceCurrency": "PHP",
+    "lat": 16.6074,
+    "lng": 120.3666
   }
 ]
