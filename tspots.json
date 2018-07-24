@@ -82,11 +82,11 @@
   },
    {
     "id": 10,
-    "name": "Hobbitat House, San Fernando, La Union",
-    "imageUrl": "https://news.mb.com.ph/wp-content/uploads/2018/04/3-129.jpg",
-    "price": 100,
+    "name": "Camp Avenue, San Juan, La Union",
+    "imageUrl": "https://i0.wp.com/whyhereph.com/wp-content/uploads/2018/01/La-Union-Camp-Avenue_8.jpg?resize=1024%2C667&ssl=1",
+    "price": 2500,
     "priceCurrency": "PHP",
-    "lat": 16.6074,
-    "lng": 120.3666
+    "lat": 16.6720,
+    "lng": 120.3628
   }
 ]
