@@ -88,5 +88,23 @@
     "priceCurrency": "PHP",
     "lat": 16.6720,
     "lng": 120.3628
+  },
+   {
+    "id": 11,
+    "name": "Pugo Adventure, Pugo, La Union",
+    "imageUrl": "http://media.tumblr.com/a47f71c250b56f196be289e695864bfb/tumblr_inline_mjquclxGlQ1qz4rgp.jpg",
+    "price": 1000,
+    "priceCurrency": "PHP",
+    "lat": 16.3213, 
+    "lng": 120.4761
+  },
+  {
+    "id": 12,
+    "name": "Immuki Island, Balaoan, La Union",
+    "imageUrl": "http://www.balaoanlaunion.gov.ph/wp-content/uploads/2017/09/IMMUKI-ISLAND.jpg",
+    "price": 500,
+    "priceCurrency": "PHP",
+    "lat": 16.8022, 
+    "lng": 120.4012
   }
 ]
