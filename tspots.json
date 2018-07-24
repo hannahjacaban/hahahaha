@@ -23,8 +23,8 @@
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/ad/pindangan-ruins.jpg",
     "price": 150,
     "priceCurrency": "PHP",
-    "lat": 16.6074,
-    "lng": 120.3666
+    "lat": 	16.5851, 
+    "lng": 120.3275
   },
   {
     "id": 4,
@@ -68,8 +68,8 @@
     "imageUrl": "http://3.bp.blogspot.com/-rmOZO8Ib1J0/VLy3bE3gzkI/AAAAAAAABSk/WxFpc1mRTrM/s1600/IMG_7569.jpg",
     "price": 250,
     "priceCurrency": "PHP",
-    "lat": 16.6074,
-    "lng": 120.3666
+    "lat": 16.6242, 
+    "lng": 120.3190
   },
   {
     "id": 9,
