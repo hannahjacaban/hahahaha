@@ -70,5 +70,23 @@
     "priceCurrency": "PHP",
     "lat": 16.6074,
     "lng": 120.3666
+  },
+  {
+    "id": 9,
+    "name": "Hobbitat House, San Fernando, La Union",
+    "imageUrl": "https://news.mb.com.ph/wp-content/uploads/2018/04/3-129.jpg",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.6074,
+    "lng": 120.3666
+  },
+   {
+    "id": 10,
+    "name": "Hobbitat House, San Fernando, La Union",
+    "imageUrl": "https://news.mb.com.ph/wp-content/uploads/2018/04/3-129.jpg",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.6074,
+    "lng": 120.3666
   }
 ]
