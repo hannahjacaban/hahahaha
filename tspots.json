@@ -46,12 +46,12 @@
   },
   {
     "id": 6,
-    "name": "Bangus Festival, Aringay, La Union",
-    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/dulao.jpg?raw=true",
+    "name": "Air Force Station, San Fernando, La Union",
+    "imageUrl": "http://i8.photobucket.com/albums/a5/flipzi/wallace_air_station_zpsfiqdkydo.jpg",
     "price": 90,
     "priceCurrency": "PHP",
-    "lat": 16.3888,
-    "lng": 120.3885
+    "lat": 16.6074,
+    "lng": 120.3666
   },
   {
     "id": 7,
@@ -106,5 +106,14 @@
     "priceCurrency": "PHP",
     "lat": 16.8022, 
     "lng": 120.4012
+  },
+  {
+    "id": 13,
+    "name": "Santo Rosario East, Aringay, La Union",
+    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/sre.jpg?raw=true",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.3787, 
+    "lng": 120.3486 
   }
 ]
