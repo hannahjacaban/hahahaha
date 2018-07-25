@@ -1,66 +1,66 @@
 [
   {
     "id": 1,
-    "name": "Tangadan Falls, San Gabriel, La Union",
-    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
-    "price": 5000,
-    "priceCurrency": "PHP",
-    "lat": 16.6694,
-    "lng": 120.5049
+    "name": "Garin Farm Pilgrimage, Iloilo",
+    "imageUrl": "https://2.bp.blogspot.com/-K4eUHCcsu44/WUzddO9f5cI/AAAAAAAAsZY/Y7JxNcOs8ow0oq3rakF50MqjoA0MDFpgQCLcBGAs/s1600/DIY%2BITINERARY%2BTO%2BGARIN%2BFARM%2BILOILO.jpg",
+    "price": 900.6,
+    "priceCurrency": "km",
+    "lat": 10.7202, 
+    "lng": 122.5621
   },
   {
     "id": 2,
-    "name": "Occalong Falls, Luna, La Union",
-    "imageUrl": "http://3.bp.blogspot.com/-BeOCkpKfUHM/VjW4qzfBCdI/AAAAAAAA4VQ/_53Jcne5joE/s1600/Tuddingan.jpg",
-    "price": 200,
-    "priceCurrency": "PHP",
-    "lat": 16.8308,
-    "lng": 120.3551
+    "name": "Hinatuan Enchanted River, Surigao del Sur",
+    "imageUrl": "https://i0.wp.com/outoftownblog.com/wp-content/uploads/2017/03/Hinatuan-Enchanted-River.jpg?fit=720%2C483&ssl=1",
+    "price": 1,548.9,
+    "priceCurrency": "km",
+    "lat": 8.5405,
+    "lng": 126.1145
   },
   {
     "id": 3,
-    "name": "Pindangan Ruins, San Fernando, La Union",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/ad/pindangan-ruins.jpg",
-    "price": 150,
-    "priceCurrency": "PHP",
-    "lat": 	16.5851, 
-    "lng": 120.3275
+    "name": "Fantasy World, Batangas",
+    "imageUrl": "http://pop.inquirer.net/files/2017/05/DSC0139.jpg",
+    "price": 342.1,
+    "priceCurrency": "km",
+    "lat": 13.9532,
+    "lng": 120.88435
   },
   {
     "id": 4,
-    "name": "Grape Picking, Bauang, La Union",
-    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/grapes.jpg?raw=true",
-    "price": 115,
-    "priceCurrency": "PHP",
-    "lat": 16.5143,
-    "lng": 120.3551
+    "name": "Fortune Island, Batangas",
+    "imageUrl": "https://www.wanderluststorytellers.com/wp-content/uploads/2017/12/Things-to-do-in-Fortune-Island-Phillipines.jpg",
+    "price": 357.1,
+    "priceCurrency": "km",
+    "lat": 14.0940,
+    "lng": 120.6890
   },
   {
     "id": 5,
-    "name": "Surfing Area, San Juan, La Union",
-    "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/urbiz.jpg?raw=true",
-    "price": 135,
-    "priceCurrency": "PHP",
-    "lat": 16.6582,
-    "lng": 120.3291
+    "name": "Tarsier Sanctuary, Bohol",
+    "imageUrl": "http://www.bohol-philippines.com/images/tarsier-bohol6.jpg",
+    "price": 1,166.7,
+    "priceCurrency": "km",
+    "lat": 9.8500,
+    "lng": 124.1435
   },
   {
     "id": 6,
-    "name": "Air Force Station, San Fernando, La Union",
-    "imageUrl": "http://i8.photobucket.com/albums/a5/flipzi/wallace_air_station_zpsfiqdkydo.jpg",
-    "price": 90,
-    "priceCurrency": "PHP",
-    "lat": 16.6197,
-    "lng": 120.2815
+    "name": "Huma Island, Palawan",
+    "imageUrl": "https://pix10.agoda.net/hotelImages/529494/-1/ce5f8985c7ee8a9f0ae7506ecd8712fc.jpg?s=1024x768",
+    "price": 1,040.4,
+    "priceCurrency": "km",
+    "lat": 9.8349,
+    "lng": 118.7384
   },
   {
     "id": 7,
-    "name": "Thunderbird Resorts and Casinos",
-    "imageUrl": "http://images.asiatravel.com/Hotel/6033/outdoor-pool.jpg",
-    "price": 1000,
-    "priceCurrency": "PHP",
-    "lat": 16.6167,
-    "lng": 120.2833
+    "name": "A Thousand Rose Garden, Cebu",
+    "imageUrl": "https://i2.wp.com/sugbo.ph/wp-content/uploads/2017/02/10000rosescafe-cebu2.jpg?resize=618%2C464",
+    "price": 1,096.8,
+    "priceCurrency": "km",
+    "lat": 10.3157,
+    "lng": 123.8854
   },
   {
     "id": 8,
