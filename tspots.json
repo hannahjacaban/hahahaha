@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Garin Farm Pilgrimage, Iloilo",
     "imageUrl": "https://2.bp.blogspot.com/-K4eUHCcsu44/WUzddO9f5cI/AAAAAAAAsZY/Y7JxNcOs8ow0oq3rakF50MqjoA0MDFpgQCLcBGAs/s1600/DIY%2BITINERARY%2BTO%2BGARIN%2BFARM%2BILOILO.jpg",
-    "price": 900.6,
+    "price": 901,
     "priceCurrency": "km",
     "lat": 10.7202, 
     "lng": 122.5621
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Hinatuan Enchanted River, Surigao del Sur",
     "imageUrl": "https://i0.wp.com/outoftownblog.com/wp-content/uploads/2017/03/Hinatuan-Enchanted-River.jpg?fit=720%2C483&ssl=1",
-    "price": 1548.9,
+    "price": 1549,
     "priceCurrency": "km",
     "lat": 8.5405,
     "lng": 126.1145
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Fantasy World, Batangas",
     "imageUrl": "http://pop.inquirer.net/files/2017/05/DSC0139.jpg",
-    "price": 342.1,
+    "price": 342,
     "priceCurrency": "km",
     "lat": 13.9532,
     "lng": 120.88435
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Fortune Island, Batangas",
     "imageUrl": "https://www.wanderluststorytellers.com/wp-content/uploads/2017/12/Things-to-do-in-Fortune-Island-Phillipines.jpg",
-    "price": 357.1,
+    "price": 357,
     "priceCurrency": "km",
     "lat": 14.0940,
     "lng": 120.6890
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Tarsier Sanctuary, Bohol",
     "imageUrl": "http://www.bohol-philippines.com/images/tarsier-bohol6.jpg",
-    "price": 1166.7,
+    "price": 1167,
     "priceCurrency": "km",
     "lat": 9.8500,
     "lng": 124.1435
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Huma Island, Palawan",
     "imageUrl": "https://pix10.agoda.net/hotelImages/529494/-1/ce5f8985c7ee8a9f0ae7506ecd8712fc.jpg?s=1024x768",
-    "price": 1040.4,
+    "price": 1040,
     "priceCurrency": "km",
     "lat": 9.8349,
     "lng": 118.7384
@@ -57,58 +57,121 @@
     "id": 7,
     "name": "A Thousand Rose Garden, Cebu",
     "imageUrl": "https://i2.wp.com/sugbo.ph/wp-content/uploads/2017/02/10000rosescafe-cebu2.jpg?resize=618%2C464",
-    "price": 1096.8,
+    "price": 1097,
     "priceCurrency": "km",
     "lat": 10.3157,
     "lng": 123.8854
   },
   {
     "id": 8,
-    "name": "Halo-Halo de Iloko",
-    "imageUrl": "http://3.bp.blogspot.com/-rmOZO8Ib1J0/VLy3bE3gzkI/AAAAAAAABSk/WxFpc1mRTrM/s1600/IMG_7569.jpg",
-    "price": 250,
-    "priceCurrency": "PHP",
-    "lat": 16.6242, 
-    "lng": 120.3190
+    "name": "Flower Farm, Benguet",
+    "imageUrl": "http://www.gotmarked.com/wp-content/uploads/Atok-Benguet-6.jpg",
+    "price": 93,
+    "priceCurrency": "km",
+    "lat": 16.5974, 
+    "lng": 120.6890
   },
   {
     "id": 9,
-    "name": "Hobbitat House, San Fernando, La Union",
-    "imageUrl": "https://news.mb.com.ph/wp-content/uploads/2018/04/3-129.jpg",
-    "price": 100,
-    "priceCurrency": "PHP",
-    "lat": 16.6074,
-    "lng": 120.3666
+    "name": "Kaparkan Falls, Abra",
+    "imageUrl": "https://i.pinimg.com/originals/01/89/ea/0189eac2e9baff227d342abdfb520bc4.jpg",
+    "price": 197,
+    "priceCurrency": "km",
+    "lat": 17.5951,
+    "lng": 120.7983
   },
    {
     "id": 10,
-    "name": "Camp Avenue, San Juan, La Union",
-    "imageUrl": "https://i0.wp.com/whyhereph.com/wp-content/uploads/2018/01/La-Union-Camp-Avenue_8.jpg?resize=1024%2C667&ssl=1",
-    "price": 2500,
-    "priceCurrency": "PHP",
-    "lat": 16.6720,
-    "lng": 120.3628
+    "name": "Marlboro Hill, Batanes",
+    "imageUrl": "https://www.madmonkeyhostels.com/wp-content/uploads/2016/03/3-marlborojpeg-e1459034618111.jpg",
+    "price": 649,
+    "priceCurrency": "km",
+    "lat": 20.4485,
+    "lng": 121.9708
   },
    {
     "id": 11,
-    "name": "Pugo Adventure, Pugo, La Union",
-    "imageUrl": "http://media.tumblr.com/a47f71c250b56f196be289e695864bfb/tumblr_inline_mjquclxGlQ1qz4rgp.jpg",
-    "price": 1000,
-    "priceCurrency": "PHP",
-    "lat": 16.3213, 
-    "lng": 120.4761
+    "name": "Man-Made Forest, Bohol",
+    "imageUrl": "https://static.wixstatic.com/media/129133_ca0a5c47b70d464da37add1645196b0b~mv2.jpg/v1/fill/w_716,h_356,al_c,q_80,usm_0.66_1.00_0.01/129133_ca0a5c47b70d464da37add1645196b0b~mv2.webp",
+    "price": 1188,
+    "priceCurrency": "km",
+    "lat": 9.7188,
+    "lng": 124.0864
   },
   {
     "id": 12,
-    "name": "Immuki Island, Bacnotan, La Union",
-    "imageUrl": "http://www.balaoanlaunion.gov.ph/wp-content/uploads/2017/09/IMMUKI-ISLAND.jpg",
-    "price": 500,
-    "priceCurrency": "PHP",
-    "lat": 16.8022, 
-    "lng": 120.4012
+    "name": "Mt. Pinatubo Crater Lake, Zambales",
+    "imageUrl": "https://c1.staticflickr.com/6/5282/5235729983_c692bf2fd6_b.jpg",
+    "price": 192,
+    "priceCurrency": "km",
+    "lat": 15.5082,
+    "lng": 119.9698
   },
   {
     "id": 13,
+    "name": "Mt. Pinatubo Crater Lake, Zambales",
+    "imageUrl": "https://c1.staticflickr.com/6/5282/5235729983_c692bf2fd6_b.jpg",
+    "price": 192,
+    "priceCurrency": "km",
+    "lat": 15.5082,
+    "lng": 119.9698
+  },
+  {
+    "id": 14,
+    "name": "Sunken Cemetery, Camiguin",
+    "imageUrl": "https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2E1MjIyOGE0NWNjYjE3MmVkN19zdW5rZW4tY2VtZXRlcnkuanBnIl0sWyJwIiwidGh1bWIiLCJ4MzkwPiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXV0",
+    "price": 1320,
+    "priceCurrency": "km",
+    "lat": 9.1732,
+    "lng": 124.7299
+  },
+  {
+    "id": 15,
+    "name": "Guimaras Mango Farm, Guimaras",
+    "imageUrl": "http://image.zizzee.com/tour/program/2411.jpg",
+    "price": 994,
+    "priceCurrency": "km",
+    "lat": 10.5929,
+    "lng": 122.6325
+  },
+  {
+    "id": 16,
+    "name": "The Ruins, Negros Occidental",
+    "imageUrl": "http://static.trip101.com/paragraph_media/pictures/000/211/791/large/1024px-The_Ruins_in_Talisay__Negros_Occidental_at_Night_%282%29.jpg?1500259434",
+    "price": 1024,
+    "priceCurrency": "km",
+    "lat": 10.2926,
+    "lng":123.0247
+  },
+  {
+    "id": 17,
+    "name": "Mt. Pinatubo Crater Lake, Zambales",
+    "imageUrl": "https://c1.staticflickr.com/6/5282/5235729983_c692bf2fd6_b.jpg",
+    "price": 192,
+    "priceCurrency": "km",
+    "lat": 15.5082,
+    "lng": 119.9698
+  },
+  {
+    "id": 18,
+    "name": "Mt. Pinatubo Crater Lake, Zambales",
+    "imageUrl": "https://c1.staticflickr.com/6/5282/5235729983_c692bf2fd6_b.jpg",
+    "price": 192,
+    "priceCurrency": "km",
+    "lat": 15.5082,
+    "lng": 119.9698
+  },
+  {
+    "id": 19,
+    "name": "Mt. Pinatubo Crater Lake, Zambales",
+    "imageUrl": "https://c1.staticflickr.com/6/5282/5235729983_c692bf2fd6_b.jpg",
+    "price": 192,
+    "priceCurrency": "km",
+    "lat": 15.5082,
+    "lng": 119.9698
+  },
+  {
+    "id": 20,
     "name": "Santo Rosario East, Aringay, La Union",
     "imageUrl": "https://github.com/hannahjacaban/hahahaha/blob/master/sre.jpg?raw=true",
     "price": 50,
