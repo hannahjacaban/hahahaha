@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Hinatuan Enchanted River, Surigao del Sur",
     "imageUrl": "https://i0.wp.com/outoftownblog.com/wp-content/uploads/2017/03/Hinatuan-Enchanted-River.jpg?fit=720%2C483&ssl=1",
-    "price": 1,548.9,
+    "price": 1548.9,
     "priceCurrency": "km",
     "lat": 8.5405,
     "lng": 126.1145
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Tarsier Sanctuary, Bohol",
     "imageUrl": "http://www.bohol-philippines.com/images/tarsier-bohol6.jpg",
-    "price": 1,166.7,
+    "price": 1166.7,
     "priceCurrency": "km",
     "lat": 9.8500,
     "lng": 124.1435
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Huma Island, Palawan",
     "imageUrl": "https://pix10.agoda.net/hotelImages/529494/-1/ce5f8985c7ee8a9f0ae7506ecd8712fc.jpg?s=1024x768",
-    "price": 1,040.4,
+    "price": 1040.4,
     "priceCurrency": "km",
     "lat": 9.8349,
     "lng": 118.7384
@@ -57,7 +57,7 @@
     "id": 7,
     "name": "A Thousand Rose Garden, Cebu",
     "imageUrl": "https://i2.wp.com/sugbo.ph/wp-content/uploads/2017/02/10000rosescafe-cebu2.jpg?resize=618%2C464",
-    "price": 1,096.8,
+    "price": 1096.8,
     "priceCurrency": "km",
     "lat": 10.3157,
     "lng": 123.8854
